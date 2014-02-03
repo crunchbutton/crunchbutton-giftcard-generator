@@ -1,0 +1,363 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+blockquote, q
+::selection
+.visible-phone
+.support-container.support-container-maximized
+.visible-desktop
+.hidden-desktop
+.snapjs-left .snap-drawer-right, .snapjs-right .snap-drawer-left
+.snapjs-expand-left .snap-drawer-left, .snapjs-expand-right .snap-drawer-right
+.route-location .bg, .bg.route.location
+.bottom-spacer
+.route-restaurant .footer
+.order-begin-wrap
+.order-begin
+.order-begin .icon, .order-begin .text
+.order-begin .icon
+.order-begin .icon
+.order-begin-wrap
+.order-begin-wrap
+.order-begin .desktop
+.order-begin-wrap
+.order-begin .mobile
+.order-begin-wrap
+.route-restaurant .nav-cart
+.route-restaurant .main-content
+.meal-items
+.meal-item
+.meal-item-content
+.meal-pic
+.restaurant-pic-wrapper
+.restaurant-pic
+.meal-restaurant
+.meal-food
+.meal-restaurant, .meal-food
+.meal-item.active
+.home-tagline, .home-welcome
+.dish-item
+.home-tagline h1, .home-welcome h1
+.home-tagline h2, .home-welcome h2
+.home-tagline h2, .home-welcome h2
+.home-tagline h2 strong, .home-welcome h2 strong
+.home-welcome h2
+.restaurant-closed
+.restaurant-closed-content
+.restaurant-closed-icon
+.restaurant-closed-title
+.restaurant-item-title
+.resturant-dish-container .dish-price
+.resturant-dish-container
+.restaurant-message
+.cart-items
+.cart-button-add
+.cart-button-remove
+.cart-button
+.cart-item-name
+.restaurant-payment-div
+.cart-item-customize-name
+.cart-item-customize-select-name
+.cart-customize-select
+.cart-item-customize-price
+.cart-item-customize
+.cart-item-customize-item
+.cart-item-config
+.button-bottom
+.button-bottom-click
+.button-bottom-click div
+.field-container
+.restaurant-items
+html[xmlns] .clearfix
+* html .clearfix
+.cart-item-description
+.delivery-payment-info
+.password-field
+.delivery-payment-info .clickable
+.delivery-payment-info div
+.delivery-payment-info label
+.payment-card-info
+.payment-card-info img
+.field-container input, .field-container textarea
+.field-container input, .field-container textarea
+.field-container input, .field-container textarea, .field-container select
+.field-container textarea
+.field-container select
+.field-container .tip
+.delivery-info-container label, .payment-info-container label
+.input-item
+.field-container
+.payment-total
+.toggle-active
+.toggle-spacer
+.toggle-item
+.app-busy
+.app-busy-loader
+.app-busy-loader-icon
+.resturant-dishes
+.location-address
+.content-item-locations h1
+.content-item-locations
+.location-detect
+.button-letseat-table td
+.location-detect-click
+.location-detect-icon
+.location-detect-loader
+.sign-in-icon
+.order-options
+.signout-button, .signup-add-facebook-button
+.signup-add-facebook-button
+.config-icon-desktop-hide
+.fb-like
+.home-recommend
+.home-recommend-message, .home-recommend-message-thank-you
+.home-recommend-message-thank-you
+.home-recommend-title
+.home-recommend-text
+.home-recommend-button
+.home-recommend-button div
+.home-recommend-message-create-account
+.home-recommend-message-create-account span
+.home-welcome-click
+.content-item-locations h1
+.content-item-locations-city
+.content-item-locations-city, .loc-your-area
+.content-item-locations-city
+.content-item-locations-city
+.home-recommend-title h1 strong
+.icon-pencil
+.home-tagline, .home-welcome
+.restaurant-name
+.content-item-locations-cities
+.meal-item-tag, .meal-item-tag-closed
+.meal-item-tag
+.meal-item-tag.about-to-close
+.meal-item-tag-closed
+.cart-item div
+.cart-item .cart-item-config, .cart-item .cart-item-name
+.your-orders .dish-name
+.dish-name
+.toggle-spacer
+.toggle-item.toggle-active
+.toggle-active
+.button-letseat-table
+.button-letseat-form
+.credit-card-ok
+.fb-like-desktop
+.restaurant-closed
+.restaurant-closed-content
+.take-out-only
+.button-bottom.button-letseat-form
+.content-item-locations
+.content-item-locations h1
+.home-welcome h1
+.home-welcom-error h1
+.home-welcome h2
+.home-welcome
+.location-address
+.location-detect
+.enter-location
+.location-detect-icon
+.location-detect-loader
+.button-bottom
+.cart-item-name
+.meal-item-tag
+.meal-item-tag-closed
+.restaurant-items
+.dish-item, .cart-item
+.dish-item
+.dish-item.blink
+.cart-item
+.resturant-dish-container .dish-name
+.resturant-dish-container .dish-price
+.your-orders .dish-price
+.your-orders .order-link
+.your-orders li
+.meal-item-content
+.meal-item
+.meal-pic
+.meal-restaurant
+.meal-food-android .meal-restaurant
+.meal-food
+.meal-food-android .meal-food
+.meal-restaurant, .meal-food
+.meal-pic
+.restaurant-pic
+.restaurant-name
+.restaurant-name h1
+.restaurant-message
+.restaurant-message-mobile
+.meal-item.active
+.restaurant-pic-wrapper
+.app-busy-loader
+.field-container select
+.card-icons, .payment-card-info p
+.field-container
+.pay-title-label, .toggle-spacer
+.toggle-item:first-child
+.toggle-item
+.toggle-active
+.toggle-wrapper
+.field-container input, .field-container textarea
+.payment-card-info
+.button-bottom-wrapper
+.button-bottom
+.restaurant-item-title:first-child
+.cart-items
+.content.short-meal-list
+.dish-name
+.dish-price
+.dp-display-item:first-child
+.dp-display-item
+.footer-hide .footer-content
+.footer.footer-hide
+.content-item-name, .your-info-label, .your-order-label
+.cart-item-customize-select-name
+.cart-customize-select
+.cart-button-add span
+.cart-button-remove span
+.cart-button
+.cart-button:first-child
+.button-letseat-form
+.config-icon-mobile-hide
+.config-icon-desktop-hide
+.config-icon.right, .menu-icon.right, .location-icon.right
+.pacman-right
+.pacman-show
+.config-icon.config-icon-back-home
+.sign-in-icon.left
+.home-recommend
+.home-recommend-message, .home-recommend-message-thank-you
+.home-recommend-title
+.home-recommend-title h1 strong, .home-recommend-title h1
+.home-recommend-text
+.home-recommend-button
+.home-recommend-button div
+.content-item-locations h1
+.content-item-locations-cities
+.content-item-locations-city
+.restaurant-gift
+.giftcard-desktop-container
+.giftcard-badge-container
+.giftcard-badge
+.giftcard-badge-value
+.giftcard-badge-tooltip
+.restaurant-message-mobile
+.meal-item:nth-child(2n+1)
+.your-orders .dish-price
+.location-address
+.ui-footer-fixed
+.content.short-meal-list
+.short-meal-list .meal-item:nth-child(2n+1)
+.restaurant-pic-wrapper
+.restaurant-pic
+.content-item-name, .text-your-order
+.content-item-main-name
+.your-info-label, .your-order-label
+.restaurant-name
+.restaurant-name h1
+.restaurant-message
+.dish-price
+.dish-item
+.dish-name
+.resturant-dishes li
+.dish-name
+.restaurant-payment-div
+.delivery-payment-info
+.button-bottom
+.input-item
+.cart-item
+.cart-items
+.payment-form, .is-closet
+.field-container input, .field-container textarea
+.field-container
+.content.smaller-width
+.button-bottom-wrapper
+.delivery-info-container label, .payment-info-container label
+input[name="pay-card-number"]
+.credit-card-ok
+.payment-card-info
+.cart-item-name
+.cart-button span
+.default-order-check
+.change-location-inline
+.small-container h3
+.suggestion-container h1
+.suggestion-container label
+.suggestion-form-tip
+.suggestion-container input
+.suggestion-form-button
+.suggestion-link-container
+.suggestion-link-title
+.suggestion-link
+.suggestion-thanks-text
+.signin-box-header-min
+.signout-icon
+.signup-add-password-button
+.giftcard-message
+.giftcard-value
+.giftcard-container input
+.giftcard-code-button
+.password-change-block
+.ui-icon-closethick
+.tooltip-help
+.tooltip-help-mobile-touchable
+.tooltip-help-mobile
+.tooltip-help  span
+.tooltip-help-content
+.tooltip-help-content-mobile
+.restaurant-pic-wrapper
+.restaurant-pic-wrapper, .restaurant-pic-wrapper.restaurant-pic-wrapper-hidden
+.restaurant-message.restaurant-with-image
+.cart-items.restaurant-with-image
+.restaurant-name
+.cart-items
+.button-bottom.button-letseat-form
+.meal-pic
+.meal-item:nth-child(3n+1)
+.short-meal-list .meal-item
+.short-meal-list .meal-item:nth-child(2n+2)
+.button-bottom-wrapper
+.button-bottom
+.restaurant-items
+.suggestion-help-content
+.tooltip-help-mobile-container
+.content-item-locations h1
+.restaurant-items, .restaurant-pic-wrapper, .cart-items, .payment-form, .is-closet
+.restaurant-items
+.cart-items
+.restaurant-name
+.restaurant-message
+.main-content-readable-margin
+.tooltip-help-mobile-container
+.restaurant-gift
+th
+.delivery-minimum-error
+.field-error
+h1.about-header
+.ui-widget-overlay
+.ui-front
+.ui-dialog-titlebar
+.ui-dialog-titlebar .ui-icon-closethick
+.ui-dialog-titlebar .ui-button
+.restaurant-gift
+.payment-card
+.card-visa
+.card-master-card
+.card-amex
+.card-discover
+.gift-left
+.location-detect
+.giftcard-restaurant
+.giftcard-message
+.take-out-only
+.giftcard-info
+.address-problem-message
+.address-processing
+.address-ok
+.address-problem
+.order-link
+.giftcard-info
+.giftcard-info .warning
+.giftcard-desktop-message
+.giftcard-payment-message
+.giftcard-desktop-message .giftcard-value
+.order-restaurant
