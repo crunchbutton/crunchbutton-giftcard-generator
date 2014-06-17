@@ -48,7 +48,7 @@ foreach ( $codes as  $code ){
 	imagesetthickness ( $image, 5 );
 
 	// Remove this
-	// imagettftext( $image, 30, 0, 600, 300, $middleGrey, $fontAmbleBold, $count );
+	imagettftext( $image, 30, 0, 600, 300, $middleGrey, $fontAmbleBold, $count );
 
 	// Path where the image wil be saved
 	$imgsrc = 'temp/' . $count . '.png';
@@ -196,8 +196,8 @@ for ( $i = 0; $i < $count; $i++ ) {
 }
 
 
-
-$pdf->Output( 'pdfs/GiftCards.pdf' );
+$pdf->Output();
+// $pdf->Output( 'pdfs/GiftCards.pdf' );
 
 echo 'done!';
 ?>
