@@ -30,8 +30,8 @@ foreach ( $codes as  $code ){
 	$code = str_replace( array( "\r\n", "\r", "\n" ), '', $code );
 
 	// First lets create the image
-	$image = imagecreatefrompng( 'assets/model_4/mini_giftcard_' . $value . '.png' );
-	// $image = imagecreatefrompng( 'assets/model_4/giftcard_back.png' );
+	// $image = imagecreatefrompng( 'assets/model_4/mini_giftcard_' . $value . '.png' );
+	$image = imagecreatefrompng( 'assets/model_4/giftcard_back_3.png' );
 
 	// Antialiases
 	imagealphablending( $image, true );
@@ -44,16 +44,16 @@ foreach ( $codes as  $code ){
 	// Put the texts
 
 	if( strlen( $code ) > 6 ){
-		imagettftext( $image, 25, 0, 345, 235, $white, $fontOmnesBold, 'crunchbutton.com/gift/' . $code );
+		// imagettftext( $image, 25, 0, 345, 235, $white, $fontOmnesBold, 'crunchbutton.com/gift/' . $code );
 	} else {
-		imagettftext( $image, 26, 0, 345, 235, $white, $fontOmnesBold, 'crunchbutton.com/gift/' . $code );
+		// imagettftext( $image, 26, 0, 345, 235, $white, $fontOmnesBold, 'crunchbutton.com/gift/' . $code );
 	}
 
-	imagettftext( $image, 12, 0, 345, 275, $white, $fontOmnes, 'Or use our iPhone app and, in the Notes section of your order, enter: ' . $code );
-	imagettftext( $image, 11, 0, 80, 375, $lightBrown, $fontOmnes, 'Valid for $' . $value . ' off one order on crunchbutton.com for new users only. One per user. Has no cash value and is not a jelly donut.' );
-	imagettftext( $image, 11, 0, 80, 395, $lightBrown, $fontOmnes, 'Not valid for past orders. Will not be replaced if lost or stolen. May be canceled any time without notice.' );
+	// imagettftext( $image, 12, 0, 345, 275, $white, $fontOmnes, 'Or use our iPhone app and, in the Notes section of your order, enter: ' . $code );
+	// imagettftext( $image, 11, 0, 80, 375, $lightBrown, $fontOmnes, 'Valid for $' . $value . ' off one order on crunchbutton.com for new users only. One per user. Has no cash value and is not a jelly donut.' );
+	// imagettftext( $image, 11, 0, 80, 395, $lightBrown, $fontOmnes, 'Not valid for past orders. Will not be replaced if lost or stolen. May be canceled any time without notice.' );
 
-	imagesetthickness ( $image, 5 );
+	// imagesetthickness ( $image, 5 );
 
 	// Path where the image wil be saved
 	$imgsrc = 'temp/' . $count . '.png';
@@ -186,6 +186,7 @@ for ( $i = 0; $i < $count; $i++ ) {
 	$giftCardsOnThisPage++;
 
 	if( $giftCardsOnThisPage == ( $collumns * $rows ) ){
+		continue;
 		$pdf->AddPage();
 		$giftCardWidthBleed = 1.5;
 		$giftCardHeightBleed = 1.5;
